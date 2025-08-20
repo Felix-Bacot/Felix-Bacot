@@ -1,0 +1,69 @@
+﻿  ProjectThree.cpp
+  Source.cpp
+U:\ProjectThree\ProjectThree\Source.cpp(47,5): error C2143: syntax error: missing ';' before '<'
+U:\ProjectThree\ProjectThree\Source.cpp(47,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\ProjectThree\ProjectThree\Source.cpp(47,32): error C2238: unexpected token(s) preceding ';'
+U:\ProjectThree\ProjectThree\Source.cpp(20,13): error C2065: 'itemFrequency': undeclared identifier
+U:\ProjectThree\ProjectThree\Source.cpp(21,1): error C3536: 'it': cannot be used before it is initialized
+U:\ProjectThree\ProjectThree\Source.cpp(21,13): error C2065: 'itemFrequency': undeclared identifier
+U:\ProjectThree\ProjectThree\Source.cpp(29,28): error C2065: 'itemFrequency': undeclared identifier
+U:\ProjectThree\ProjectThree\Source.cpp(29,28): error C2672: 'begin': no matching overloaded function found
+U:\ProjectThree\ProjectThree\Source.cpp(29,1): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(1911): message : see declaration of 'std::begin'
+U:\ProjectThree\ProjectThree\Source.cpp(29,1): message : With the following template arguments:
+U:\ProjectThree\ProjectThree\Source.cpp(29,1): message : '_Container=unknown-type'
+U:\ProjectThree\ProjectThree\Source.cpp(29,1): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\initializer_list(57): message : see declaration of 'std::begin'
+U:\ProjectThree\ProjectThree\Source.cpp(29,28): error C2672: 'end': no matching overloaded function found
+U:\ProjectThree\ProjectThree\Source.cpp(29,1): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(1921): message : see declaration of 'std::end'
+U:\ProjectThree\ProjectThree\Source.cpp(29,1): message : With the following template arguments:
+U:\ProjectThree\ProjectThree\Source.cpp(29,1): message : '_Container=unknown-type'
+U:\ProjectThree\ProjectThree\Source.cpp(29,1): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\initializer_list(63): message : see declaration of 'std::end'
+U:\ProjectThree\ProjectThree\Source.cpp(29,1): error C3536: '<begin>$L0': cannot be used before it is initialized
+U:\ProjectThree\ProjectThree\Source.cpp(29,1): error C3536: '<end>$L0': cannot be used before it is initialized
+U:\ProjectThree\ProjectThree\Source.cpp(29,41): error C2100: illegal indirection
+U:\ProjectThree\ProjectThree\Source.cpp(36,28): error C2065: 'itemFrequency': undeclared identifier
+U:\ProjectThree\ProjectThree\Source.cpp(36,28): error C2672: 'begin': no matching overloaded function found
+U:\ProjectThree\ProjectThree\Source.cpp(36,1): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(1911): message : see declaration of 'std::begin'
+U:\ProjectThree\ProjectThree\Source.cpp(36,1): message : With the following template arguments:
+U:\ProjectThree\ProjectThree\Source.cpp(36,1): message : '_Container=unknown-type'
+U:\ProjectThree\ProjectThree\Source.cpp(36,1): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\initializer_list(57): message : see declaration of 'std::begin'
+U:\ProjectThree\ProjectThree\Source.cpp(36,28): error C2672: 'end': no matching overloaded function found
+U:\ProjectThree\ProjectThree\Source.cpp(36,1): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(1921): message : see declaration of 'std::end'
+U:\ProjectThree\ProjectThree\Source.cpp(36,1): message : With the following template arguments:
+U:\ProjectThree\ProjectThree\Source.cpp(36,1): message : '_Container=unknown-type'
+U:\ProjectThree\ProjectThree\Source.cpp(36,1): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\initializer_list(63): message : see declaration of 'std::end'
+U:\ProjectThree\ProjectThree\Source.cpp(36,1): error C3536: '<begin>$L0': cannot be used before it is initialized
+U:\ProjectThree\ProjectThree\Source.cpp(36,1): error C3536: '<end>$L0': cannot be used before it is initialized
+U:\ProjectThree\ProjectThree\Source.cpp(36,41): error C2100: illegal indirection
+U:\ProjectThree\ProjectThree\Source.cpp(58,6): error C2065: 'itemFrequency': undeclared identifier
+U:\ProjectThree\ProjectThree\Source.cpp(70,28): error C2065: 'itemFrequency': undeclared identifier
+U:\ProjectThree\ProjectThree\Source.cpp(70,28): error C2672: 'begin': no matching overloaded function found
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(1911): message : see declaration of 'std::begin'
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): message : With the following template arguments:
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): message : '_Container=unknown-type'
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\initializer_list(57): message : see declaration of 'std::begin'
+U:\ProjectThree\ProjectThree\Source.cpp(70,28): error C2672: 'end': no matching overloaded function found
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(1921): message : see declaration of 'std::end'
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): message : With the following template arguments:
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): message : '_Container=unknown-type'
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\initializer_list(63): message : see declaration of 'std::end'
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): error C3536: '<begin>$L0': cannot be used before it is initialized
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): error C3536: '<end>$L0': cannot be used before it is initialized
+U:\ProjectThree\ProjectThree\Source.cpp(70,41): error C2100: illegal indirection
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): error C2059: syntax error: '{'
+U:\ProjectThree\ProjectThree\Source.cpp(70,1): error C2143: syntax error: missing ';' before '{'
+U:\ProjectThree\ProjectThree\Source.cpp(71,15): error C2065: 'entry': undeclared identifier
+U:\ProjectThree\ProjectThree\Source.cpp(71,37): error C2065: 'entry': undeclared identifier
+  Generating Code...
